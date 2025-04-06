@@ -2,6 +2,9 @@
   "name": "gitbook-plugin-umami",
   "version": "1.0.0",
   "description": "Umami Analytics",
+  "engines": {
+      "gitbook": ">=3.0.0-pre.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
