@@ -15,7 +15,7 @@ $ npm install gitbook-plugin-umami
     "plugins": ["umami"],
     "pluginsConfig": {
         "umami": {
-            "url": "http(s)://xxxx/random-string.js"
+            "url": "http(s)://xxxx/random-string.js",
             "website-id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         }
     }
