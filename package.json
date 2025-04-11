@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Umami Analytics",
   "engines": {
-      "gitbook": ">=3.0.0-pre.0"
+    "gitbook": ">=3.0.0-pre.0"
   },
   "main": "index.js",
   "scripts": {
